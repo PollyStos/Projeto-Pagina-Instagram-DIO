@@ -1,2 +1,4 @@
 # Projeto-Pagina-Instagram-DIO
-Solução do projeto proposto pela DIO em recriar a pagina inicial do Instagram.
+
+###Este projeto foi desenvolvido para colocar em prática o que foi aprendido nas aulas de CSS. 
+### O intúito é recriar a pagina do Instagram usando os textbox e seus atributos.
